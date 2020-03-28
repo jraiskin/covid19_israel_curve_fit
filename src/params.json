@@ -1,3 +1,4 @@
 {
-  "remote_csv_path": "https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv"
+  "remote_csv_path": "https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv",
+  "remote_csv_israel_path": "https://raw.githubusercontent.com/idandrd/israel-covid19-data/master/IsraelCOVID19.csv"
 }
